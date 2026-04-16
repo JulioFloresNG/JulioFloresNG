@@ -1,3 +1,5 @@
+<img src="./banner.png" />
+
 ## 👋 Hey, I'm Julio 
 
 Computer Engineering student into cybersecurity and building things.
